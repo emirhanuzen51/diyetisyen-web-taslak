@@ -70,7 +70,7 @@ export function Logo({ light = false }: { light?: boolean }) {
         <path d="M16 14c0-6 4.5-10 12-10 0 6.5-4.5 10-12 10Z" fill="#d8a77d" />
       </svg>
       <span>
-        Filiz<span className="text-clay">.</span>
+        Diyetisyen<span className="text-clay">.</span>
         <span className={`ml-1.5 align-middle font-sans text-[10px] font-bold uppercase tracking-[0.24em] ${light ? "text-oat/60" : "text-muted"}`}>Beslenme</span>
       </span>
     </span>
@@ -708,7 +708,7 @@ export function Footer() {
         </div>
         <div className="flex gap-6">
           <Link href="/kvkk" className="hover:text-forest">KVKK</Link>
-          <span>© {new Date().getFullYear()} Filiz Beslenme</span>
+          <span>© {new Date().getFullYear()} Diyetisyen Web Taslağı</span>
         </div>
       </div>
     </footer>

@@ -8,7 +8,7 @@ const serif = DM_Serif_Display({ subsets: ["latin", "latin-ext"], weight: "400",
 const sans = Manrope({ subsets: ["latin", "latin-ext"], variable: "--font-manrope", display: "swap" });
 
 export const metadata: Metadata = {
-  title: `Filiz Beslenme | ${pro.name} — Bilimsel ve kişiye özel beslenme`,
+  title: `Diyetisyen Web Taslağı | ${pro.name} — Bilimsel ve kişiye özel beslenme`,
   description: "Kısıtlamalardan uzak, sürdürülebilir ve bilimsel temelli beslenme danışmanlığı. Bireysel, sporcu, çocuk ve çevrim içi beslenme danışmanlığı.",
 };
 export const viewport: Viewport = { themeColor: "#f5f1e8" };

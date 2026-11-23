@@ -3,7 +3,7 @@ import Link from "next/link";
 import { pro } from "@/lib/data";
 import { Logo } from "@/components/site";
 
-export const metadata: Metadata = { title: "KVKK Aydınlatma Metni | Filiz Beslenme" };
+export const metadata: Metadata = { title: "KVKK Aydınlatma Metni | Diyetisyen" };
 
 // NOT: Taslak metindir; yayından önce hukuk kontrolünden geçirilmelidir.
 export default function Page() {

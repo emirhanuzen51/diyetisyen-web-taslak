@@ -1,8 +1,8 @@
 {
-  "name": "filiz-beslenme",
+  "name": "diyetisyen-taslak",
   "version": "1.0.0",
   "private": true,
-  "description": "Filiz Beslenme — diyetisyen web sitesi",
+  "description": "Diyetisyen Web Taslağı (Demo) — diyetisyen web sitesi",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

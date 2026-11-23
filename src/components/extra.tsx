@@ -198,7 +198,7 @@ export function Myths() {
 }
 
 /* ---------------- Su takibi (yalnızca bu cihazda) ---------------- */
-const WKEY = "filiz-su";
+const WKEY = "diyetisyen-su";
 export function Water() {
   const [n, setN] = useState(0);
   useEffect(() => {

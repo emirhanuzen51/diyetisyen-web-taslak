@@ -1,14 +1,14 @@
 // Kişi ve iletişim bilgileri yayından önce doğrulanmış bilgilerle güncellenmelidir.
 // İçerikler genel bilgilendirme amaçlıdır; kişiye özel tıbbi beslenme önerisi değildir.
 export const pro = {
-  brand: "Filiz Beslenme",
-  name: "Dyt. Ad Soyad",
+  brand: "Diyetisyen",
+  name: "Dyt. Uzman Diyetisyen",
   title: "Diyetisyen",
   city: "Şehir",
   address: "Örnek Mah. Örnek Sok. No:1, Şehir",
   phoneDisplay: "+90 (000) 000 00 00",
   phoneHref: "tel:+900000000000",
-  email: "merhaba@filizbeslenme.com",
+  email: "merhaba@diyetisyen-taslak.com",
   hours: "Hafta içi 09:00 – 18:00 (randevu ile)",
 };
 
